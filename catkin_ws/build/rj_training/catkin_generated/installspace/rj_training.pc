@@ -1,0 +1,8 @@
+prefix=/home/jorge/Development/ros/catkin_ws/install
+
+Name: rj_training
+Description: Description of rj_training
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

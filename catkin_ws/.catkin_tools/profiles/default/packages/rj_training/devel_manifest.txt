@@ -1,0 +1,8 @@
+rj_training
+/home/jorge/Development/ros/catkin_ws/devel/.private/rj_training/cmake.lock /home/jorge/Development/ros/catkin_ws/devel/./cmake.lock
+/home/jorge/Development/ros/catkin_ws/devel/.private/rj_training/lib/pkgconfig/rj_training.pc /home/jorge/Development/ros/catkin_ws/devel/lib/pkgconfig/rj_training.pc
+/home/jorge/Development/ros/catkin_ws/devel/.private/rj_training/lib/rj_training/listener_node /home/jorge/Development/ros/catkin_ws/devel/lib/rj_training/listener_node
+/home/jorge/Development/ros/catkin_ws/devel/.private/rj_training/lib/rj_training/lisener_node /home/jorge/Development/ros/catkin_ws/devel/lib/rj_training/lisener_node
+/home/jorge/Development/ros/catkin_ws/devel/.private/rj_training/lib/rj_training/talker_node /home/jorge/Development/ros/catkin_ws/devel/lib/rj_training/talker_node
+/home/jorge/Development/ros/catkin_ws/devel/.private/rj_training/share/rj_training/cmake/rj_trainingConfig.cmake /home/jorge/Development/ros/catkin_ws/devel/share/rj_training/cmake/rj_trainingConfig.cmake
+/home/jorge/Development/ros/catkin_ws/devel/.private/rj_training/share/rj_training/cmake/rj_trainingConfig-version.cmake /home/jorge/Development/ros/catkin_ws/devel/share/rj_training/cmake/rj_trainingConfig-version.cmake

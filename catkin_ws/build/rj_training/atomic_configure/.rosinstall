@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jorge/Development/ros/catkin_ws/devel/.private/rj_training/setup.sh
