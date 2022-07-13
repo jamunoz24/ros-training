@@ -6,10 +6,28 @@
 
 #IncludeRegexTransform: 
 
+/home/jorge/Development/ros/catkin_ws/devel/.private/rj_training/include/rj_training/StringWithHeader.h
+string
+-
+vector
+-
+map
+-
+ros/types.h
+-
+ros/serialization.h
+-
+ros/builtin_message_traits.h
+-
+ros/message_operations.h
+-
+std_msgs/Header.h
+-
+
 /home/jorge/Development/ros/catkin_ws/src/rj_training/src/listener.cpp
 ros/ros.h
 -
-std_msgs/String.h
+rj_training/StringWithHeader.h
 -
 iostream
 -
@@ -662,7 +680,7 @@ ros/forwards.h
 
 /opt/ros/noetic/include/rosconsole/macros_generated.h
 
-/opt/ros/noetic/include/std_msgs/String.h
+/opt/ros/noetic/include/std_msgs/Header.h
 string
 -
 vector

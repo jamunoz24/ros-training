@@ -3,6 +3,6 @@ prefix=/home/jorge/Development/ros/catkin_ws/devel/.private/rj_training
 Name: rj_training
 Description: Description of rj_training
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/jorge/Development/ros/catkin_ws/devel/.private/rj_training/include
 Libs: -L${prefix}/lib 
-Requires: 
+Requires: message_runtime

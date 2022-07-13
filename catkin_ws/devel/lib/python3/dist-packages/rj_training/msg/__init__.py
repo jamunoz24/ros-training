@@ -1,0 +1,1 @@
+/home/jorge/Development/ros/catkin_ws/devel/.private/rj_training/lib/python3/dist-packages/rj_training/msg/__init__.py

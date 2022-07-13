@@ -1,8 +1,8 @@
 #include <ros/ros.h>
-#include <std_msgs/String.h>
+#include <rj_training/StringWithHeader.h>
 #include <iostream>
 
-void callback(const std_msgs::StringConstPtr& msg)
+void callback(const rj_training::StringWithHeaderConstPtr& msg)
 {
     std::cout << msg->data << std::endl;
 }
